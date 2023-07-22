@@ -1,10 +1,10 @@
 mj:
   discord:
-    guild-id: 1123457943262728234
-    channel-id: 1123457943795417130
-    user-token: MTA4ODM0MTI2MDU3OTkwOTY2NA.GBM4D-.9LMEaYuuaDtOd4K3wZA1em_4mEn4ve_hfeZ4k8
+    guild-id: 1123424405893169215
+    channel-id: 1123424406694264874
+    user-token: MTEyMjgyOTc1MTE0NTQ3NjE4Nw.GlhylS.NSP_EhgNmDAu-Piytl12u-A4vkfvtr8_GxCeTU
 
-    session-id: e00d1f4c0d6fdade440c610aba8a5dae
+    session-id: 49388613fba681a392090b3b504df91a
     user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
     user-wss: true
   task-store:
